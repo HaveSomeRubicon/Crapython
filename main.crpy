@@ -1,1 +1,2 @@
-pf out str/Hello world/
+pf log str "Hello world"
+pf var str "Hello world"
